@@ -130,7 +130,7 @@ body::-webkit-scrollbar{
 }
 
 #banner_buttons :hover {
-    color:black;
+    color: black;
     background-color: #e90404; /* Netflix red color */
     opacity: 1;
     transition: all .3s;
@@ -197,7 +197,7 @@ body::-webkit-scrollbar{
     transform: scale(1.08);
 }
 
-.row_posterLarge,
+.row_posterLarge
 /* .row_posterLarg1,
 .row_posterLarge2 */
 {
@@ -212,7 +212,7 @@ body::-webkit-scrollbar{
   
    
 }
-.row_posterLarge:hover,
+.row_posterLarge: hover,
 .row_posterLarge1:hover,
 .row_posterLarge2:hover{
     transform: scale(1.09);
